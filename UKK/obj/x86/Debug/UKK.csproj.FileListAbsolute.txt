@@ -1,0 +1,29 @@
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\DataBarang.mdb
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe.config
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.pdb
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Form1.resources
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Properties.Resources.resources
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csproj.GenerateResource.Cache
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.exe
+E:\Kelas XII RPL\UKK\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.pdb
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe.config
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.exe
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.pdb
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\DataBarang.mdb
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.exe
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\bin\Debug\UKK.pdb
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csprojResolveAssemblyReference.cache
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Form1.resources
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.Properties.Resources.resources
+D:\UKK-----------------------\UKK_XIIRPL3_33\UKK\UKK\obj\x86\Debug\UKK.csproj.GenerateResource.Cache
+D:\UKK-----------------------\UKK\UKK\UKK\bin\Debug\UKK.exe.config
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.exe
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.pdb
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.csprojResolveAssemblyReference.cache
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.Form1.resources
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.Properties.Resources.resources
+D:\UKK-----------------------\UKK\UKK\UKK\obj\x86\Debug\UKK.csproj.GenerateResource.Cache
+D:\UKK-----------------------\UKK\UKK\UKK\bin\Debug\DataBarang.mdb
+D:\UKK-----------------------\UKK\UKK\UKK\bin\Debug\UKK.exe
+D:\UKK-----------------------\UKK\UKK\UKK\bin\Debug\UKK.pdb
